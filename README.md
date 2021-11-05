@@ -17,6 +17,12 @@
   <img alt="bin2dec" src="./public/cssborderradiuspng.png" width="100%">
 </p>
 
+## 💻 Projeto
+
+O projeto é um gerador de código css para a propriedade border radius. 
+
+Ele foi construído com o objetivo de praticar os conhecimentos adquiridos em Reactjs e Typescript.  
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -25,11 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Typescript
 - Styled Components
 
-## 💻 Projeto
 
-O projeto é um gerador de código css para a propriedade border radius. 
-
-Ele foi construído com o objetivo de praticar os conhecimentos adquiridos em Reactjs e Typescript.  
 
 ## :memo: Licença
 
