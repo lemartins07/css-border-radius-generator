@@ -1,5 +1,5 @@
 <h1 align="center">
-  Bin2Dec
+ Border radius
 </h1>
 
 <p align="center">
